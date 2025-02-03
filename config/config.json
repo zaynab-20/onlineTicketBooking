@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "adejobii20",
-    "database": "Online_Booking",
-    "host": "127.0.0.1",
+    "username": "sql10760451",
+    "password": "4Ld7cVSNfH",
+    "database": "sql10760451",
+    "host": "sql10.freesqldatabase.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "sql10760451",
+    "password": "4Ld7cVSNfH",
+    "database": "sql10760451",
+    "host": "sql10.freesqldatabase.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+  "username": "sql10760451",
+    "password": "4Ld7cVSNfH",
+    "database": "sql10760451",
+    "host": "sql10.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
