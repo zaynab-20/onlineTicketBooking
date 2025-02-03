@@ -1,4 +1,4 @@
-const Events = require("../models/events");
+const {Events} = require("../models/events");
 const {v4:uuidv4} =require("uuid")
 
 // const fs = require('fs');
