@@ -13,7 +13,7 @@ app.use(express.json())
 app.use(router)
 
 app.use(eventRouter)
-// app.use(seatRouter)
+app.use(seatRouter)
 app.use(bookingRouter)
 
 app.listen(PORT,()=>{
